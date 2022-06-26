@@ -23,6 +23,30 @@ public class Overloading {
         aC.m(theObject, theLong, theLong);
         aC.m(theObject, theInt, theInt);
 
+        System.out.println("Chiamate su aD");
+        aD.m(theString, theInt, theLong);
+        // aD.m(theString, theInt, theInt);
+        aD.m(theString, theLong, theInt);
+        aD.m(theString, theLong, theLong);
+        aD.m(theObject, theLong, theLong);
+        aD.m(theObject, theInt, theInt);
+
+        System.out.println("Chiamate su anotherD");
+        anotherD.m(theString, theInt, theLong);
+        // anotherD.m(theString, theInt, theInt);
+        anotherD.m(theString, theLong, theInt);
+        anotherD.m(theString, theLong, theLong);
+        anotherD.m(theObject, theLong, theLong);
+        anotherD.m(theObject, theInt, theInt);
+
+        System.out.println("Chiamate su aB");
+        aB.m(theString, theInt, theLong);
+        // aB.m(theString, theInt, theInt);
+        aB.m(theString, theLong, theInt);
+        aB.m(theString, theLong, theLong);
+        aB.m(theObject, theLong, theLong);
+        aB.m(theObject, theInt, theInt);
+
     }
     
 }
