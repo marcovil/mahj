@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f8c09e1-6bd4-4ab4-b05f-318e89fac9d9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ripasso/Overloading2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ripasso/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ripasso/D.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ripasso/Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ripasso/Overloading.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +50,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Overloading">
+  <component name="RunManager" selected="Application.Overloading2">
     <configuration name="Example116" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example116" />
       <module name="mahj" />
@@ -73,14 +72,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example90" />
+    <configuration name="Overloading2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ripasso.Overloading2" />
       <module name="mahj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ripasso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ripasso.Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ripasso.Overloading" />
       <module name="mahj" />
       <extension name="coverage">
@@ -95,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Overloading" />
+        <item itemvalue="Application.Overloading2" />
+        <item itemvalue="Application.ripasso.Overloading" />
         <item itemvalue="Application.Example118" />
         <item itemvalue="Application.Example117" />
         <item itemvalue="Application.Example116" />
-        <item itemvalue="Application.Example90" />
       </list>
     </recent_temporary>
   </component>
