@@ -70,7 +70,7 @@ public class Overloading2 {
         aD.m(anotherD);
         aD.m(aB);
         System.out.println();
-        /*aC.m(aD);
+        aC.m(aD);
         aC.m(aC);
         aC.m(anotherD);
         aC.m(aB);
@@ -78,13 +78,14 @@ public class Overloading2 {
         anotherD.m(aD);
         anotherD.m(aC);
         anotherD.m(anotherD);
-        anotherD.m(aB); System.out.println();
+        anotherD.m(aB);
+        System.out.println();
         aB.m(aD);
         aB.m(aC);
         aB.m(anotherD);
         aB.m(aB);
         aD.k(aD,aD);
         aD.k(aD,aC);
-        aD.k(aC,aC);*/
+//        aD.k(aC,aC);
     }
 }
