@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f8c09e1-6bd4-4ab4-b05f-318e89fac9d9" name="Changes" comment="add Overloading2">
-      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ripasso/MySortAnonymousClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ripasso/StackHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ripasso/Sums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tjt/HelloWorldAnonymousClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjt/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjt/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjt/OuterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjt/TopLevelClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -54,7 +53,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HelloWorldAnonymousClasses">
+  <component name="RunManager" selected="Application.OuterTest">
     <configuration name="HelloWorldAnonymousClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tjt.HelloWorldAnonymousClasses" />
       <module name="mahj" />
@@ -68,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overloading2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ripasso.Overloading2" />
+    <configuration name="OuterClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tjt.OuterClass" />
       <module name="mahj" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ripasso.*" />
+          <option name="PATTERN" value="tjt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ripasso.StackHeap" />
+    <configuration name="OuterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tjt.OuterTest" />
       <module name="mahj" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ripasso.*" />
+          <option name="PATTERN" value="tjt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,20 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VehicleDemo" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tjt.Test" />
       <module name="mahj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tjt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OuterTest" />
+        <item itemvalue="Application.OuterClass" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.HelloWorldAnonymousClasses" />
         <item itemvalue="Application.Sums" />
-        <item itemvalue="Application.StackHeap" />
-        <item itemvalue="Application.VehicleDemo" />
-        <item itemvalue="Application.Overloading2" />
       </list>
     </recent_temporary>
   </component>
