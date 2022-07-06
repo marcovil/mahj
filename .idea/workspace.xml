@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f8c09e1-6bd4-4ab4-b05f-318e89fac9d9" name="Changes" comment="add Overloading2">
-      <change afterPath="$PROJECT_DIR$/src/tjt/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tjt/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tjt/OuterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tjt/TopLevelClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3f8c09e1-6bd4-4ab4-b05f-318e89fac9d9" name="Changes" comment="add Outer, OuterTest, OuterClass, TopLevelClass in Tutorial">
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tjt/LocalClassExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,9 +50,16 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OuterTest">
-    <configuration name="HelloWorldAnonymousClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tjt.HelloWorldAnonymousClasses" />
+  <component name="RunManager" selected="Application.EmployeeTest">
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmployeeTest" />
+      <module name="mahj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tjt.LocalClassExample" />
       <module name="mahj" />
       <extension name="coverage">
         <pattern>
@@ -93,19 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ripasso.Sums" />
-      <module name="mahj" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ripasso.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tjt.Test" />
       <module name="mahj" />
@@ -121,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeeTest" />
+        <item itemvalue="Application.LocalClassExample" />
         <item itemvalue="Application.OuterTest" />
         <item itemvalue="Application.OuterClass" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.HelloWorldAnonymousClasses" />
-        <item itemvalue="Application.Sums" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656362843197</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Outer, OuterTest, OuterClass, TopLevelClass in Tutorial">
+      <created>1657050820698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657050820698</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,7 +159,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add Overloading2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Overloading2" />
+    <MESSAGE value="add Outer, OuterTest, OuterClass, TopLevelClass in Tutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Outer, OuterTest, OuterClass, TopLevelClass in Tutorial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
